@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-04-24T06:27:30Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-04-19T06:27:30Z"
+    },
+    {
+      "id": 3,
+      "description": "Comidinha boa",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 150,
+      "createdAt": "2022-04-21T06:27:30Z"
+    },
+    {
+      "description": "Verzel",
+      "price": 14000,
+      "type": "income",
+      "category": "Salário",
+      "createdAt": "2022-08-13T18:54:51.250Z",
+      "id": 4
+    }
+  ]
+}
